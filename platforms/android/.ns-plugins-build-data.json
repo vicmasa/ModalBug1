@@ -1,0 +1,13 @@
+{
+	"nativescript-ui-sidedrawer": {
+		"/Users/victor/NS/modal622/node_modules/nativescript-ui-sidedrawer/platforms/android/TNSSideDrawer-release.aar": "e6e4d527ff85743c270768018b9ea720ec5b9dda",
+		"/Users/victor/NS/modal622/node_modules/nativescript-ui-sidedrawer/platforms/android/typings/sidedrawer.d.ts": "8256a2295125597755fe6a6faee866b0750e65f2"
+	},
+	"nativescript-ui-core": {
+		"/Users/victor/NS/modal622/node_modules/nativescript-ui-core/platforms/android/typings/core.d.ts": "5c032652edfa1719ef8c8190fc0f66d3b1c313c2",
+		"/Users/victor/NS/modal622/node_modules/nativescript-ui-core/platforms/android/TNSCore-release.aar": "0e2fe0b867821ad56b8f0b9c8ac4c90f4c399e3c"
+	},
+	"tns-core-modules-widgets": {
+		"/Users/victor/NS/modal622/node_modules/tns-core-modules-widgets/platforms/android/widgets-release.aar": "0746721bed98e833a85c066a1994200dd8dd111b"
+	}
+}

@@ -1,0 +1,4 @@
+#Fri Dec 06 08:56:46 PET 2019
+base.0=/Users/victor/NS/modal622/platforms/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

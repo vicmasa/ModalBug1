@@ -1,0 +1,21 @@
+use_frameworks!
+
+target "modal622" do
+# NativeScriptPlatformSection /Users/victor/NS/modal622/node_modules/tns-core-modules/platforms/ios/Podfile with 9.0
+platform :ios, '9.0'
+# End NativeScriptPlatformSection
+
+# Begin Podfile - /Users/victor/NS/modal622/node_modules/tns-core-modules/platforms/ios/Podfile
+# platform :ios, '9.0'
+use_frameworks!
+
+pod 'MaterialComponents/Tabs', '~> 92.3'
+# End Podfile
+
+# Begin Podfile - /Users/victor/NS/modal622/node_modules/@nativescript/core/platforms/ios/Podfile
+# platform :ios, '9.0'
+use_frameworks!
+
+pod 'MaterialComponents/Tabs', '~> 92.3'
+# End Podfile
+end

@@ -1,0 +1,6 @@
+framework module Pods_modal622 {
+  umbrella header "Pods-modal622-umbrella.h"
+
+  export *
+  module * { export * }
+}

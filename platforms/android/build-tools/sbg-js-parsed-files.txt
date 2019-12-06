@@ -1,0 +1,4 @@
+/Users/victor/NS/modal622/platforms/android/app/src/main/assets/app/runtime.js
+/Users/victor/NS/modal622/platforms/android/app/src/main/assets/app/bundle.js
+/Users/victor/NS/modal622/platforms/android/app/src/main/assets/app/vendor.js
+/Users/victor/NS/modal622/platforms/android/app/src/main/assets/app/tns-java-classes.js
