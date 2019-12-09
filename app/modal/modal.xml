@@ -1,3 +1,5 @@
-<Page xmlns="http://www.nativescript.org/tns.xsd" showingModally="onShownModally" backgroundColor="transparent">
-    <Label text="MODAL" />
+<Page xmlns="http://www.nativescript.org/tns.xsd" shownModally="onShownModally" backgroundColor="transparent">
+	<GridLayout backgroundColor="red" verticalAlignment="middle">
+    	<Label text="MODAL" /> 
+    </GridLayout>
 </Page>

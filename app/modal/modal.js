@@ -6,7 +6,9 @@ exports.onShownModally = function (args) {
     const page = args.object;
     page.bindingContext = observableModule.fromObject(context);
     if (page._dialogFragment) {
-        page._dialogFragment.getDialog().getWindow().setBackgroundDrawable(new android.graphics.drawable.ColorDrawable(android.graphics.Color.TRANSPARENT));
+        setTimeout(() => {
+            page._dialogFragment.getDialog().getWindow().setBackgroundDrawable(new android.graphics.drawable.ColorDrawable(android.graphics.Color.TRANSPARENT));
+        }, 1);
     }
 };
 exports.itemTap_options = function (args) {
